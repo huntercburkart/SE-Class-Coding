@@ -10,4 +10,4 @@ public class CustomerserviceApplication {
 		SpringApplication.run(CustomerserviceApplication.class, args);
 	}
 
-} //test
+}
